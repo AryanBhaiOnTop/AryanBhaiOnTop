@@ -31,10 +31,4 @@
   <img src="https://streak-stats.demolab.com?user=nobita329&theme=tokyonight&hide_border=true" height="165">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nobita329&theme=tokyonight" height="180">
-</p>
-
-<br>
-
 <h3 align="center">🌐 <a href="https://nobitahost.in">nobitahost.in</a> · Free cloud hosting, built with ❤️</h3>
