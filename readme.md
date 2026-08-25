@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 I'm Aryan</h1>
-<h3 align="center">Founder of <a href="https://https://www.legacycloud.fun/">Legacy Cloud</a> — free & fast hosting for everyone 🚀</h3>
+<h3 align="center">Founder of <a href="https://www.legacycloud.fun/">Legacy Cloud</a> — free & fast hosting for everyone 🚀</h3>
 
 <br>
 
@@ -31,4 +31,4 @@
   <img src="https://streak-stats.demolab.com?user=nobita329&theme=tokyonight&hide_border=true" height="165">
 </p>
 
-<h3 align="center">🌐 <a href="https://nobitahost.in">nobitahost.in</a> · Free cloud hosting, built with ❤️</h3>
+<h3 align="center">🌐 <a href="https://www.legacycloud.fun//">legacycloud.fun</a> · Free cloud hosting, built with ❤️</h3>
