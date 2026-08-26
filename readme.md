@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 I'm Aryan</h1>
-<h3 align="center">Founder of <a href="https://www.legacycloud.fun/">Legacy Cloud</a> — free & fast hosting for everyone 🚀</h3>
+<h3 align="center">CEO of <a href="https://www.legacycloud.fun/">Legacy Cloud</a> — free & fast hosting for everyone 🚀</h3>
 
 <br>
 
